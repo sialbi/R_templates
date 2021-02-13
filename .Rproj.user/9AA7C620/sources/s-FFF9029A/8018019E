@@ -1,25 +1,25 @@
 {
-    "id": "E848A956",
-    "path": "~/Data Analytics/data_analytics/data_analytics_template.R",
-    "project_path": "data_analytics_template.R",
+    "id": "8018019E",
+    "path": "~/Data Analytics/data_analytics/useful_functions.R",
+    "project_path": "useful_functions.R",
     "type": "r_source",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1613148319909.0,
+    "created": 1613226702783.0,
     "source_on_save": false,
-    "relative_order": 2,
+    "relative_order": 3,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "10,0",
+        "cursorPosition": "7,13",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1613228896,
+    "lastKnownWriteTime": 1613227849,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1613228896948,
+    "last_content_update": 1613227849780,
     "read_only": false,
     "read_only_alternatives": []
 }
