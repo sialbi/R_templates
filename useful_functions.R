@@ -2,8 +2,8 @@
 # check to see if packages are installed. Install them
 # if they are not, then load them into the R session.
 
-pkg <- c("ggplot2", "reshape", "foreign", "stargazer", "psych", "dplyr",
-         "car", "gridExtra")
+pkg <- c("devtools", "ggplot2", "reshape", "foreign", "stargazer", "psych", "dplyr",
+         "car", "gridExtra", "readxl", "tidyverse", "ggswissmaps")
 
 inst_pack <- function(pkg){
   new.pkg <- pkg[!(pkg %in% installed.packages()[, "Package"])]
